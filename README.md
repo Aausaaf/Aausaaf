@@ -10,9 +10,9 @@
 <br>
 
 <!-- <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=AbhishekKasera7696&label=Profile%20views&color=0e75b6&style=plastic" alt="Abhishek" /> 
+	<img src="https://komarev.com/ghpvc/?username=AbhishekKasera7696&label=Profile%20views&color=0e75b6&style=plastic" alt="Aausaf" /> 
 	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="Abhishek" target="_blank"/> 
+		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="Aausaf" target="_blank"/> 
 	</a>
 </p> -->
 
@@ -23,7 +23,7 @@
 - Position to work on enhancing the product experience.
 - 🤔 I’m looking to collaborate with other content creators;<br/>
 - 🌱 I’m currently exploring Web Development;
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1UvlR2u6xoKmNcZgJxjqLSCjWOjqaM3qP/view?usp=sharing).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1h6fO9OlpK9Pcqk1dRtcql-MmfvH8UcjJ/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 
 <br>
@@ -51,10 +51,10 @@
 	<a href="mailto:abhi07kasera@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/AbhishekKasera7696"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://wa.me/+919169111377"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/abhishek-kasera-50180321a/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<!-- 	<a href="https://www.facebook.com/7oSkaaa"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a> -->
-<!-- 	<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a> -->
-<!-- 	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a> -->
+	<a href="https://www.linkedin.com/in/aausaf-alam-4693a5183/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<!-- 	<a href="#"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a> -->
+<!-- 	<a href="#"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a> -->
+<!-- 	<a href="#"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a> -->
 </p>
 
 
@@ -209,6 +209,6 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
  -->
 -----
-Credits: [Abhishek Kasera](https://github.com/AbhishekKasera7696)
+Credits: [Aausaf Alam](https://github.com/Aausaaf)
 
-Last Edited on: 12/04/2022
+Last Edited on: 21/06/2022
