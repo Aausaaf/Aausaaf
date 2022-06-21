@@ -198,7 +198,7 @@
 --
  <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Aausaaf"><img alt="Aausaaf" src="https://activity-graph.herokuapp.com/graph?username=Aausaf&custom_title=Aausaf's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Aausaaf"><img alt="Aausaaf" src="https://activity-graph.herokuapp.com/graph?username=Aausaaf&custom_title=Aausaaf's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
   
 
