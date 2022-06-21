@@ -48,9 +48,9 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
-	<a href="mailto:abhi07kasera@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/AbhishekKasera7696"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/+919169111377"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="mailto:aausafalam585@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/Aausaaf"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://wa.me/+917033432213"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://www.linkedin.com/in/aausaf-alam-4693a5183/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <!-- 	<a href="#"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a> -->
 <!-- 	<a href="#"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a> -->
@@ -186,10 +186,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AbhishekKasera7696" src="https://github-readme-stats.vercel.app/api?username=AbhishekKasera7696&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="#"><img alt="Aausaaf" src="https://github-readme-stats.vercel.app/api?username=Aausaaf&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhishekKasera7696&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="AbhishekKasera7696" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aausaaf&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Aausaaf" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -198,7 +198,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/AbhishekKasera7696"><img alt="AbhishekKasera7696" src="https://activity-graph.herokuapp.com/graph?username=AbhishekKasera7696&custom_title=AbhishekKasera7696's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Aausaaf"><img alt="Aausaaf" src="https://activity-graph.herokuapp.com/graph?username=Aausaf&custom_title=Aausaf's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
