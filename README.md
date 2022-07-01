@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Aausaf Alam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-   <p align="center">        <img  height=320 width=840 src="https://opengeekslab.com/wp-content/uploads/2020/02/Full-Stack-Development-Market-State.png" alt="Aausaf" /></p>
+   <p align="center">        <img  height=320 width=830 src="https://opengeekslab.com/wp-content/uploads/2020/02/Full-Stack-Development-Market-State.png" alt="Aausaf" /></p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Mern+Stack+Developer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
