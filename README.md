@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Aausaf Alam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
-  <img src ="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif" border-radius="3px" width="96%" height="380px"/>
+  <img src ="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif" border-radius="3px" width="96%" height="370px"/>
   
 </div>
 <p align="center">
